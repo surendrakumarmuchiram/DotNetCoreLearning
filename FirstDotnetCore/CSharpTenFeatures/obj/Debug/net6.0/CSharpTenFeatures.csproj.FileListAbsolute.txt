@@ -1,0 +1,15 @@
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\CSharpTenFeatures.exe
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\CSharpTenFeatures.deps.json
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\CSharpTenFeatures.runtimeconfig.json
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\CSharpTenFeatures.dll
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\ref\CSharpTenFeatures.dll
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\bin\Debug\net6.0\CSharpTenFeatures.pdb
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.csproj.AssemblyReference.cache
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.AssemblyInfoInputs.cache
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.AssemblyInfo.cs
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.csproj.CoreCompileInputs.cache
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.dll
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\ref\CSharpTenFeatures.dll
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.pdb
+D:\Dotnet\QuestPond\FirstDotnetCore\CSharpTenFeatures\obj\Debug\net6.0\CSharpTenFeatures.genruntimeconfig.cache
